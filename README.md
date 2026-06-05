@@ -476,15 +476,7 @@ print("--- Finalizing Braille Recognition Pipeline ---")
 
 ## **Output-Complete Pipeline execution and final decoded text:** 
 
-**6. Flowchart:** 
-
-**==> picture [175 x 644] intentionally omitted <==**
-
-**----- Start of picture text -----**<br>
-Preprogessing<br>Load Braille.png<br>Convert to Grayscale<br>Apply Gaussian Blur<br>Binary Thresholding<br>Segmegtation<br>Group Dots into 3x2 Cells<br>Feature Wxtraction<br>Map Cell to 6-bit Binary<br>Vector<br>Example: A = 100000<br>Classifiggtion<br>Dictionary Lookup<br>Match Found No Match<br>Convert to English Char<br>Append to String<br>Save to<br>predicted_output.txt<br>**----- End of picture text -----**<br>
-
-
-## **7. Conclusion:** 
+## **6. Conclusion:** 
 
 The development of this Braille Recognition System demonstrates the practical application of Artificial Intelligence and Computer Vision in solving real-world accessibility challenges. Through the systematic implementation of an image processing pipeline—spanning from initial preprocessing and segmentation to feature extraction and rule-based classification— we successfully transformed visual dot patterns into meaningful symbolic text. 
 
