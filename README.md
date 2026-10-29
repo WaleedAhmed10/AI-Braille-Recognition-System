@@ -6,8 +6,6 @@ _Spring 2026_
 
 **NAMES:** M.Usman Tariq & Waleed Ahmed **ENR No:** 01-131232-071 & 01-131232-093 
 
-**SECTION:** BSE 6-A 
-
 ## _Department of Software Engineering_ 
 
 _Bahria University H-11 Campus_ 
